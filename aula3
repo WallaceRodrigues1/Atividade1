@@ -1,0 +1,14 @@
+package Aula02;
+
+public class Atividade03 {
+public static void main (String[] args) {
+		
+		String nome ="Lucas";
+		String CPF = "09944205455";
+		String Cep = "81305550;";
+		String Cidade = "Curitiba";
+		String EstadoSigla = "PR";
+		
+		System.out.println("A pessoa com o nome: " + nome + " , registrada no CPF: " + CPF + " é residente no CEP: " + Cep + " em " + Cidade + "-" + EstadoSigla);
+}
+}
